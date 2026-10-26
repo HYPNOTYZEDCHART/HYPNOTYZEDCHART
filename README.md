@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bécaye Doumbouya
-### Software Builder AI-Augmented
+### Software Builder AI-Augmented | Full-Stack Systems & Modern Frontends
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://mon-portfolio-five-livid.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Becaye_Doumbouya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/becaye-doumbouya-b90947411/)
@@ -11,7 +11,7 @@
 <br/>
 
 ```
-Bâtissant des systèmes résilients, des moteurs de paiement FinTech et des flux temps réel à haute concurrence, augmentés par l'IA.
+Bâtissant des produits web de bout en bout : interfaces Next.js ultra-réactives, moteurs FinTech résilients et architectures temps réel, augmentés par l'IA.
 ```
 
 </div>
@@ -20,9 +20,10 @@ Bâtissant des systèmes résilients, des moteurs de paiement FinTech et des flu
 
 ### ⚡ Profil & Pôle d'Expertise
 
-Software Builder AI-Augmented concevant des architectures distribuées hautement scalables, avec un accent intransigeant sur l'intégrité financière (ACID), l'ingénierie augmentée par l'IA, la sécurité DevSecOps et le streaming temps réel.
+Software Builder AI-Augmented alliant maîtrise des interfaces utilisateur modernes (Frontend) et rigueur d'ingénierie des systèmes distribués (Backend/DevSecOps) :
 
-* **Systèmes Financiers & Séquestre (FinTech)** : Orchestration de workflows transactionnels complexes, intégrations Wave & Orange Money (Max It), réconciliation de webhooks cryptographiques (HMAC SHA-256) et zéro perte de centime FCFA.
+* **Frontend Moderne & Performance Web (Next.js 16 / React 19)** : Conception d'interfaces véloces, fluides et modulaires (App Router, Server & Client Components, Tailwind CSS v4, Turbopack). Maîtrise du typage strict de bout en bout, de l'accessibilité sémantique et de l'optimisation Core Web Vitals.
+* **Systèmes Financiers & Séquestre (FinTech)** : Orchestration de flux transactionnels complexes, passerelles Wave & Orange Money (Max It), réconciliation de webhooks cryptographiques (HMAC SHA-256) et transactions atomiques ACID (zéro perte de centime FCFA).
 * **Moteurs Événementiels & Temps Réel** : Passerelles WebSockets à faible latence (Socket.io), gestion des salles de streaming, négociation bilatérale asynchrone et diffusion flash.
 * **Clean Architecture & Multi-Tenant** : Conception modulaire sous NestJS 11 / Node.js, ORM Prisma 7, bases de données relationnelles optimisées (MySQL 8 / PostgreSQL) avec isolation stricte des données par tenant.
 
@@ -32,16 +33,26 @@ Software Builder AI-Augmented concevant des architectures distribuées hautement
 
 <div align="center">
 
+#### Frontend & Interfaces Modernes
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 #### Backend & Core Runtime
 ![NestJS](https://img.shields.io/badge/NestJS_11-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io_4-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-#### Base de Données & Persistance
+#### Bases de Données & Persistance
 ![Prisma](https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 #### DevOps, Cloud & Déploiement
@@ -67,8 +78,8 @@ Software Builder AI-Augmented concevant des architectures distribuées hautement
 ```mermaid
 graph LR
     subgraph Clients
-        Web[Marketplace Next.js]
-        Admin[Seller SaaS Next.js]
+        Web[Marketplace Next.js 16]
+        Admin[Seller SaaS Next.js 16]
     end
 
     subgraph API Core [OpenBoutik API - NestJS 11]
@@ -127,4 +138,4 @@ graph LR
 * **Email Pro** : [doumbiabecaye7@gmail.com](mailto:doumbiabecaye7@gmail.com)
 * **LinkedIn** : [linkedin.com/in/becaye-doumbouya-b90947411](https://www.linkedin.com/in/becaye-doumbouya-b90947411/)
 * **Portfolio en Ligne** : [mon-portfolio-five-livid.vercel.app](https://mon-portfolio-five-livid.vercel.app/)
-* **Localisation** : Dakar, Sénégal — Disponible pour opportunités Software Builder AI-Augmented / Architecte Distribué (Remote / Hybride)
+* **Localisation** : Dakar, Sénégal — Disponible pour opportunités Full-Stack / Software Builder AI-Augmented (Remote / Hybride)
