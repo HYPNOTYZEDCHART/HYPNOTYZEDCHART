@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bécaye Doumbouya
-### Lead Backend Engineer & Distributed Systems Architect
+### Software Builder AI-Augmented
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://mon-portfolio-five-livid.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Becaye_Doumbouya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/becaye-doumbouya-b90947411/)
@@ -11,7 +11,7 @@
 <br/>
 
 ```
-Architecturant des systèmes résilients, des moteurs de paiement FinTech et des flux temps réel à haute concurrence.
+Bâtissant des systèmes résilients, des moteurs de paiement FinTech et des flux temps réel à haute concurrence, augmentés par l'IA.
 ```
 
 </div>
@@ -20,7 +20,7 @@ Architecturant des systèmes résilients, des moteurs de paiement FinTech et des
 
 ### ⚡ Profil & Pôle d'Expertise
 
-Principal Backend Engineer concevant des architectures distribuées hautement scalables, avec un accent intransigeant sur l'intégrité financière (ACID), la sécurité DevSecOps et le streaming temps réel.
+Software Builder AI-Augmented concevant des architectures distribuées hautement scalables, avec un accent intransigeant sur l'intégrité financière (ACID), l'ingénierie augmentée par l'IA, la sécurité DevSecOps et le streaming temps réel.
 
 * **Systèmes Financiers & Séquestre (FinTech)** : Orchestration de workflows transactionnels complexes, intégrations Wave & Orange Money (Max It), réconciliation de webhooks cryptographiques (HMAC SHA-256) et zéro perte de centime FCFA.
 * **Moteurs Événementiels & Temps Réel** : Passerelles WebSockets à faible latence (Socket.io), gestion des salles de streaming, négociation bilatérale asynchrone et diffusion flash.
@@ -62,7 +62,7 @@ Principal Backend Engineer concevant des architectures distribuées hautement sc
 
 ### 🚀 Projet Phare : [OpenBoutik API](https://github.com/OpenBoutik-Team/openboutik-api)
 > **Moteur E-Commerce & Marketplace FinTech Sécurisée (Afrique de l'Ouest)**  
-> *Rôle : Lead Backend Engineer & System Architect (Dev 3)*
+> *Rôle : Software Builder AI-Augmented & System Architect (Dev 3)*
 
 ```mermaid
 graph LR
@@ -127,4 +127,4 @@ graph LR
 * **Email Pro** : [doumbiabecaye7@gmail.com](mailto:doumbiabecaye7@gmail.com)
 * **LinkedIn** : [linkedin.com/in/becaye-doumbouya-b90947411](https://www.linkedin.com/in/becaye-doumbouya-b90947411/)
 * **Portfolio en Ligne** : [mon-portfolio-five-livid.vercel.app](https://mon-portfolio-five-livid.vercel.app/)
-* **Localisation** : Dakar, Sénégal — Disponible pour opportunités Senior Backend / Architecte Distribué (Remote / Hybride)
+* **Localisation** : Dakar, Sénégal — Disponible pour opportunités Software Builder AI-Augmented / Architecte Distribué (Remote / Hybride)
